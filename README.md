@@ -1,1 +1,3 @@
-![Metrics](https://metrics.lecoq.io/AbhayAysola?template=classic&followup=1&languages=1&config.timezone=Asia%2FKolkata&config.animated=true)
+# Yo! I'm Abhay 
+
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhayAysola&hide=stars&show_icons=true&theme=react)
