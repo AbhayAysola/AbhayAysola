@@ -1,5 +1,5 @@
 # Hey! I'm Abhay ✌
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhayAysola&show_icons=true&locale=en&theme=react" alt="AbhayAysola" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhayAysola&show_icons=true&locale=en&theme=react" alt="AbhayAysola" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayAysola&&theme=react" alt="AbhayAysola" /></p>
 
